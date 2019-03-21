@@ -1,0 +1,4 @@
+﻿-tietokanta tarvitsee hiomista. Aputauluja enemmän, käyttäjätunnukset taulu turha
+-päiväkirja merkinnät eivät anna paljoa tietoa
+-ei etusivua suunniteltu
+https://github.com/ElDoctorino/koulu/tree/master/Projekti%202019
